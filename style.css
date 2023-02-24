@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(253, 251, 251);
+  }
+  
+  #cabecalho {
+    top: 0;
+    position: fixed;
+    background-color: hsl(294, 43%, 81%);
+    font-family: Cutive Mono, monospace;
+  }
+  
+  #minha_foto {
+    margin-top: 90px;
+    border: 20px hsl(270, 23%, 58%) solid;
+  }
+  
+  #licoes_aprendidas {
+    font-size: 15pt;
+    font-family: Cutive Mono, monospace;
+  }
+  
+  #licoes_a_aprender {
+    font-size: 15pt;
+    font-family: Cutive Mono, monospace;
+  }
+  
+  .textos {
+    display: inline-block;
+  }
+  
+  .lado-esquerdo {
+    font-size: 15pt;
+    font-family: Cutive Mono, monospace;
+    line-height: 1.5;
+    float: left;
+    width: 400px;
+    margin: 20px;
+    text-align: justify;
+  }
+  
+  .lado-direito {
+    font-size: 15pt;
+    line-height: 1.5;
+    font-family: Cutive Mono, monospace;
+    float: right;
+    width: 400px;
+    margin: 20px;
+    text-align: justify;
+  }
+  
+  table , th , td {
+    font-size: 21px;
+    font-family: Cutive Mono, monospace;
+    border: 1px solid;
+    margin: 5px;
+    padding: 1px;
+  }
+  
+  #rodape {
+    padding: 20px;
+    color: hsl(342, 96%, 89%);
+    font-family: Cutive Mono, monospace;
+  }
+  
